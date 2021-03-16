@@ -9,3 +9,49 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
+#red {
+  border-top-color: #f00;
+}
+
+#blue {
+  border-color: #06f;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color:  transparent;
+}
+
+#yellow {
+  border-color: #ff0;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color:  transparent;
+}
+
+#green  {
+  border-color:#00bc3f ;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color:  transparent;
+}
+
+#indigo { 
+  border-color: #8a2be2;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color:  transparent;
+}
+
+#orange {
+  border-color: #ffa500;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color:  transparent;
+}
+
+#violet {
+  border-color: #d300c9;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color:  transparent;
+}
